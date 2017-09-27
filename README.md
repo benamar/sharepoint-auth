@@ -4,12 +4,12 @@ This module will provide you the necessary `FedAuth` and `rtFa` cookies along wi
 
 # Installation
 ```sh
-$ npm install sharepoint-auth
+$ npm install sharepoint-auth2
 ```
 # Usage
 
 ```sh
-var Sharepoint = require('sharepoint-auth');
+var Sharepoint = require('sharepoint-auth2');
 
 var options = {
     auth: {
